@@ -7,4 +7,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - git clone <git_project_url> && cd auth0-example
 - npm install
 - ng serve && and open http://localhost:4200 (it works)
-- ng server --prod (fails, looks like the lock pop ups always)
+- ng server --prod (Look like it works, but the lock never catch the callback...)
